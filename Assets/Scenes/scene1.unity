@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 109021340}
   - component: {fileID: 109021339}
   m_Layer: 0
-  m_Name: lune_final_0
+  m_Name: fenetre_lune
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -238,7 +238,7 @@ GameObject:
   - component: {fileID: 209178999}
   - component: {fileID: 209178998}
   m_Layer: 0
-  m_Name: soleil_final
+  m_Name: fenetre_soleil
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -327,7 +327,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &255278172
 GameObject:
@@ -463,7 +463,7 @@ GameObject:
   - component: {fileID: 480246997}
   - component: {fileID: 480246996}
   m_Layer: 0
-  m_Name: chatheureux_final_0
+  m_Name: Chat_Heureux
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5514,7 +5514,7 @@ GameObject:
   - component: {fileID: 1321088805}
   - component: {fileID: 1321088804}
   m_Layer: 0
-  m_Name: chatneutre_final_0
+  m_Name: Chat_Neutre
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5579,7 +5579,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 0
   m_Sprite: {fileID: 4558607409789774623, guid: a0a520581a7912f4086b5a22a9e0e856, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -5603,7 +5603,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1446882656
 GameObject:
@@ -5617,7 +5617,7 @@ GameObject:
   - component: {fileID: 1446882658}
   - component: {fileID: 1446882657}
   m_Layer: 0
-  m_Name: chatfache_final
+  m_Name: Chat_Fache
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5706,7 +5706,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1513501972
 GameObject:
@@ -5719,7 +5719,7 @@ GameObject:
   - component: {fileID: 1513501974}
   - component: {fileID: 1513501973}
   m_Layer: 0
-  m_Name: fondv1
+  m_Name: piece_principale
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5885,7 +5885,7 @@ GameObject:
   - component: {fileID: 1742085752}
   - component: {fileID: 1742085751}
   m_Layer: 0
-  m_Name: re
+  m_Name: Rectangle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5955,7 +5955,7 @@ Transform:
   m_LocalScale: {x: 29.62445, y: 10.009296, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1862158138
 GameObject:
@@ -6038,5 +6038,5 @@ Transform:
   m_LocalScale: {x: 1.083159, y: 1.083159, z: 1.083159}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
