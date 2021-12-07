@@ -1,25 +1,16 @@
 fileFormatVersion: 2
-guid: 85cbd9c95c3be2d4c9b9b2273cf76ce9
+guid: f5e2743a34e3e164ca93032ac41fb3cc
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2689051767003263632
-    second: panneau-lumieres-feu_0
+      213: 203159139973707992
+    second: panneau-lumieres-furieux_0
   - first:
-      213: -7132534511963121327
-    second: panneau-lumieres-feu_1
+      213: 6799622321751539632
+    second: panneau-lumieres-furieux_1
   - first:
-      213: 5329339076182667920
-    second: panneau-lumieres-feu_2
-  - first:
-      213: -8330891128301294569
-    second: panneau-lumieres-feu_3
-  - first:
-      213: 2187591547682101479
-    second: panneau-lumieres-feu_4
-  - first:
-      213: -5360408298826412268
-    second: panneau-lumieres-feu_5
+      213: -41535731123103136
+    second: panneau-lumieres-furieux_2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -64,7 +55,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 125
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -109,127 +100,64 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: panneau-lumieres-feu_0
+      name: panneau-lumieres-furieux_0
       rect:
         serializedVersion: 2
-        x: 62
-        y: 51
-        width: 1072
-        height: 745
+        x: 18
+        y: 20
+        width: 1064
+        height: 742
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07d42254aa19eaad0800000000000000
-      internalID: -2689051767003263632
+      spriteID: 8d8b1035924c1d200800000000000000
+      internalID: 203159139973707992
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: panneau-lumieres-feu_1
+      name: panneau-lumieres-furieux_1
       rect:
         serializedVersion: 2
-        x: 1257
-        y: 51
-        width: 1069
-        height: 745
+        x: 1288
+        y: 20
+        width: 1063
+        height: 742
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1595932b6a5240d90800000000000000
-      internalID: -7132534511963121327
+      spriteID: 0bf31d6c97c1d5e50800000000000000
+      internalID: 6799622321751539632
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: panneau-lumieres-feu_2
+      name: panneau-lumieres-furieux_2
       rect:
         serializedVersion: 2
-        x: 2459
-        y: 56
-        width: 1069
-        height: 798
+        x: 2518
+        y: 20
+        width: 1064
+        height: 742
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 092f97b57ad95f940800000000000000
-      internalID: 5329339076182667920
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: panneau-lumieres-feu_3
-      rect:
-        serializedVersion: 2
-        x: 3672
-        y: 51
-        width: 1069
-        height: 798
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 71ce52368aab26c80800000000000000
-      internalID: -8330891128301294569
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: panneau-lumieres-feu_4
-      rect:
-        serializedVersion: 2
-        x: 4862
-        y: 51
-        width: 1067
-        height: 801
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7e81d391ce2eb5e10800000000000000
-      internalID: 2187591547682101479
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: panneau-lumieres-feu_5
-      rect:
-        serializedVersion: 2
-        x: 6066
-        y: 51
-        width: 1072
-        height: 801
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 3, y: 0, z: 2, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 41f45698d010c95b0800000000000000
-      internalID: -5360408298826412268
+      spriteID: 06adbecf87f6c6ff0800000000000000
+      internalID: -41535731123103136
       vertices: []
       indices: 
       edges: []

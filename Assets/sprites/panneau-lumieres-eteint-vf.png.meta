@@ -1,13 +1,16 @@
 fileFormatVersion: 2
-guid: a3beca61357e4194683192164b9aead2
+guid: 80806c055f1bf23409ec113c817b2e60
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -43818201300289303
-    second: lune_final 1_0
+      213: -363518126228289223
+    second: panneau-lumieres-eteint-vf_0
   - first:
-      213: 1530782222274554850
-    second: lune_final 1_1
+      213: -6346706292850518068
+    second: panneau-lumieres-eteint-vf_1
+  - first:
+      213: -4176255618308607274
+    second: panneau-lumieres-eteint-vf_2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -97,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: lune_final 1_0
+      name: panneau-lumieres-eteint-vf_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 730
-        height: 722
+        x: 18
+        y: 20
+        width: 1066
+        height: 742
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -111,20 +114,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9e8bcccf393546ff0800000000000000
-      internalID: -43818201300289303
+      spriteID: 9394fb0b03684faf0800000000000000
+      internalID: -363518126228289223
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: lune_final 1_1
+      name: panneau-lumieres-eteint-vf_1
       rect:
         serializedVersion: 2
-        x: 730
-        y: 0
-        width: 730
-        height: 722
+        x: 1288
+        y: 18
+        width: 1063
+        height: 742
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,8 +135,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2eb682b125e6e3510800000000000000
-      internalID: 1530782222274554850
+      spriteID: cc798e0c048fbe7a0800000000000000
+      internalID: -6346706292850518068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panneau-lumieres-eteint-vf_2
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 18
+        width: 1066
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d27c7354a5fa06c0800000000000000
+      internalID: -4176255618308607274
       vertices: []
       indices: 
       edges: []
